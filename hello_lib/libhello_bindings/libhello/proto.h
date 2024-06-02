@@ -1,1 +1,1 @@
-void ohai2u();
+int ohai2u();
