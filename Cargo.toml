@@ -1,0 +1,10 @@
+[package]
+name = "hello_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hello_lib = { path = "hello_lib" }
+
+[workspace]
+default-members = ["hello_lib"]
