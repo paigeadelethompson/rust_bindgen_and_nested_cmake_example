@@ -8,3 +8,7 @@ hello_lib = { path = "hello_lib" }
 
 [workspace]
 default-members = ["hello_lib"]
+
+[[bin]]
+name = "hellocli"
+path = "src/main.rs"

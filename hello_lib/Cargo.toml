@@ -5,3 +5,6 @@ edition = "2021"
 
 [dependencies]
 libhello_bindings = { path = "libhello_bindings" }
+
+[lib]
+crate-type = ["rlib"]
