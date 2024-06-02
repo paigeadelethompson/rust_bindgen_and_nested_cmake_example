@@ -25,7 +25,7 @@ wraps a bindings library which contains the C/C++/CMake project:
     └── main.rs
 ```
 
-the file `build.rs` is responsible for first executing the CMake build as well as generating the Rust FFI bindings which are used (and tested with `cargo test` ) 
+the file `build.rs` is responsible for first executing the CMake build as well as generating the Rust FFI bindings which are used (and tested with `cargo test`) 
 in the `hello_lib` sub-crate.
 
 
