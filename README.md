@@ -33,4 +33,5 @@ in the `hello_lib` sub-crate.
 - Cargo build scripts: https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/cargo/reference/build-scripts.html
 - cmake crate: https://docs.rs/cmake/latest/cmake/
 - bindgen crate: https://crates.io/crates/bindgen/0.19.2
-- bindgen documentation https://rust-lang.github.io/rust-bindgen/
+- bindgen documentation: https://rust-lang.github.io/rust-bindgen/
+- Rust linkage: https://doc.rust-lang.org/reference/linkage.html
